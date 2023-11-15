@@ -1,0 +1,15 @@
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\bin\Debug\net6.0\XCondo.GerarPlanilha.exe
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\bin\Debug\net6.0\XCondo.GerarPlanilha.deps.json
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\bin\Debug\net6.0\XCondo.GerarPlanilha.runtimeconfig.json
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\bin\Debug\net6.0\XCondo.GerarPlanilha.dll
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\bin\Debug\net6.0\XCondo.GerarPlanilha.pdb
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.csproj.AssemblyReference.cache
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.AssemblyInfoInputs.cache
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.AssemblyInfo.cs
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.csproj.CoreCompileInputs.cache
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.dll
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\refint\XCondo.GerarPlanilha.dll
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.pdb
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\XCondo.GerarPlanilha.genruntimeconfig.cache
+C:\Users\BUSQUETE\Documents\GitHub\XCondo\XCondo.GerarPlanilha\obj\Debug\net6.0\ref\XCondo.GerarPlanilha.dll
