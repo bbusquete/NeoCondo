@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BUSQUETE\\Documents\\GitHub\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj": {}
+    "C:\\Temp\\Git\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BUSQUETE\\Documents\\GitHub\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj": {
+    "C:\\Temp\\Git\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BUSQUETE\\Documents\\GitHub\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj",
+        "projectUniqueName": "C:\\Temp\\Git\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj",
         "projectName": "NeoCondo.GerarBoleto",
-        "projectPath": "C:\\Users\\BUSQUETE\\Documents\\GitHub\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj",
-        "packagesPath": "C:\\Users\\BUSQUETE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BUSQUETE\\Documents\\GitHub\\NeoCondo\\src\\NeoCondo.GerarBoleto\\obj\\",
+        "projectPath": "C:\\Temp\\Git\\NeoCondo\\src\\NeoCondo.GerarBoleto\\NeoCondo.GerarBoleto.csproj",
+        "packagesPath": "C:\\Users\\BrunoRenanGuizeBusqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\Git\\NeoCondo\\src\\NeoCondo.GerarBoleto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BUSQUETE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BrunoRenanGuizeBusqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/tecnologiaunica/Satelital/_packaging/satelital/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
