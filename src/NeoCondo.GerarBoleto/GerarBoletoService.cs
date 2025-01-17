@@ -2,19 +2,32 @@
 using System.Net.Http.Json;
 using OfficeOpenXml;
 using NeoCondo.GerarBoleto.Entities;
+using Microsoft.Extensions.Configuration;
+using System.Configuration;
 
 namespace NeoCondo.GerarBoleto
 {
     public class GerarBoletoService
     {
+        private string? urlArquivo;
+        private string? urlAssas;
+        private string? acessTokenAssas;
+
+        public GerarBoletoService(string? urlArquivo, string? urlAssas, string? acessTokenAssas)
+        {
+            this.urlArquivo=urlArquivo;
+            this.urlAssas=urlAssas;
+            this.acessTokenAssas=acessTokenAssas;
+        }
+
         public async Task<Uri> CreateCobrancaAssync(Cobranca cobranca)
         {
             HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("https://www.asaas.com");
+            client.BaseAddress = new Uri(urlAssas);
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(
                 new MediaTypeWithQualityHeaderValue("application/json"));
-            client.DefaultRequestHeaders.Add("access_token", "$aact_YTU5YTE0M2M2N2I4MTliNzk0YTI5N2U5MzdjNWZmNDQ6OjAwMDAwMDAwMDAwMDAwNDIwNTg6OiRhYWNoX2VjNGRmOGJhLTkxNWUtNDQ5YS05ZjlmLTNkYmNmNjZjYWQzZA==");
+            client.DefaultRequestHeaders.Add("access_token", acessTokenAssas);
 
             HttpResponseMessage response = await client.PostAsJsonAsync
                 (
@@ -29,7 +42,8 @@ namespace NeoCondo.GerarBoleto
         {
             var cobrancas = new List<Cobranca>();
 
-            FileInfo file = new FileInfo(@"C:\Temp\modelo_new.xlsx");
+            //var fileUrl = ConfigurationManager.AppSettings["UrlArquivo"];
+            FileInfo file = new FileInfo(urlArquivo);
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
             using(ExcelPackage package = new ExcelPackage(file))

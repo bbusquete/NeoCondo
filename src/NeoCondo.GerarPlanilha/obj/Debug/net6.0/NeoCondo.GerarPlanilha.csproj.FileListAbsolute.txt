@@ -28,3 +28,11 @@ C:\Users\BUSQUETE\Documents\GitHub\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug
 C:\Users\BUSQUETE\Documents\GitHub\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.pdb
 C:\Users\BUSQUETE\Documents\GitHub\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.genruntimeconfig.cache
 C:\Users\BUSQUETE\Documents\GitHub\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\ref\NeoCondo.GerarPlanilha.dll
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.csproj.AssemblyReference.cache
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.AssemblyInfoInputs.cache
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.AssemblyInfo.cs
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.csproj.CoreCompileInputs.cache
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.dll
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\refint\NeoCondo.GerarPlanilha.dll
+C:\Temp\Git\NeoCondo\src\NeoCondo.GerarPlanilha\obj\Debug\net6.0\NeoCondo.GerarPlanilha.pdb
